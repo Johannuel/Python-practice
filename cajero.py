@@ -12,6 +12,7 @@ while True:
 
     elif Opcion == "2":
         Monto = int(input("\n Cuanto dinero quiere retirar : "))
+
         if Monto > Saldo:
             print("\n Saldo Insuficiente \n")
 

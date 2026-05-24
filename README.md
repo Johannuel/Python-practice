@@ -13,4 +13,4 @@
 
 Nota: 
 
-Mas adelante hare mas Programas, como por ejemplo Un analista de redes , entrenare a una Ia para que aprenda y resuelva problemas complejos.
+Mas adelante hare mas Programas, como por ejemplo Un analista de redes , entrenare a una IA para que aprenda y resuelva problemas complejos.

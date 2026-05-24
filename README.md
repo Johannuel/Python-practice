@@ -1,5 +1,4 @@
-# Python-practice
-Varios archivos .py
+# Funciones de Cada Archivo.Py
 
 1.El cajero.py es un programa que simula un cajero automático.
 
@@ -10,3 +9,7 @@ Varios archivos .py
 4. El Problema.py es un bucle que repite una acción indefinidamente hasta que se detiene con la clave correcta.
 
 5. Rank.py sera un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc. 
+
+
+
+~Mas adelante hare mas Programas, como por ejemplo Un analista de redes , entrenare a una Ia para que aprenda y resuelva problemas complejos.~

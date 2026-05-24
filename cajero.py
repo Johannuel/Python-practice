@@ -29,8 +29,8 @@ while True:
         print(f"\n Tu nuevo monto es : {Saldo} \n")
 
     elif Opcion == "4":
-        print("\n Hasta la proxima!")
+        print("\n Hasta la proxima! :)")
         break
 
     else:
-        print("\n Opcion no valida")
+        print("\n Opcion no valida :/ ")

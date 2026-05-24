@@ -15,7 +15,7 @@ while True:
         Monto = int(input("\n Cuanto dinero quiere retirar : "))
 
         if Monto > Saldo:
-            print("\n Saldo Insuficiente \n")
+            print("\n Saldo Insuficiente :( \n")
 
         else:
             Saldo -= Monto

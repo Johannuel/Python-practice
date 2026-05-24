@@ -1,7 +1,7 @@
 Saldo = 1000
 
 while True:
-    print("\n Menu cajero")
+    print("\n Menu cajero: ")
     print("\n 1. Ver saldo")
     print("\n 2. Retirar dinero")
     print("\n 3. Depositar dinero")

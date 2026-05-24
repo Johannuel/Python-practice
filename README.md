@@ -8,7 +8,7 @@
 
 4. El Problema.py es un bucle que repite una acción indefinidamente hasta que se detiene con la clave correcta.
 
-5. Rank.py sera un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc.
+5. Rank.py es un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc.
 
 6. El Depurar.py es un codigo que busque con errores para arreglarlos.
 

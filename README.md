@@ -11,5 +11,6 @@
 5. Rank.py sera un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc. 
 
 
-Nota:_
+Nota: 
+
 Mas adelante hare mas Programas, como por ejemplo Un analista de redes , entrenare a una Ia para que aprenda y resuelva problemas complejos.

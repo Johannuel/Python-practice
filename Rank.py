@@ -29,7 +29,7 @@ personajes = {
         "velocidad": 75,
         "inteligencia": 70,
     },  # Fuerza y velocidad aumentadas, especialmente en el agua.
-    # --- Personajes de Marvel ---
+    #  Personajes de Marvel
     "Hulk": {
         "poder": 100,
         "destreza": 60,

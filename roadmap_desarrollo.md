@@ -1,11 +1,11 @@
 # Roadmap Maestro: El Camino del Ingeniero Polímata (Versión Exhaustiva 300+)
 
+Este documento es el mapa definitivo para alcanzar la maestría técnica y humana en la ingeniería. Sigue este orden de complejidad ascendente. No es superficial; es una ruta de aprendizaje granular.
+
 ---
 
 ## 📖 INTRODUCCIÓN: EL MANIFIESTO DEL INGENIERO
-Bienvenido a la senda del ingeniero polímata. Lo que tienes ante ti no es una simple lista de temas a aprender; es un mapa para reprogramar tu cerebro y construir una base técnica inquebrantable. En un mundo donde la tecnología evoluciona a un ritmo frenético, la mayoría de los programadores se pierden tratando de memorizar sintaxis o frameworks que caducarán en dos años. Tú no harás eso.
-
-Tú aprenderás **los cimientos de la computación**, aquellos que han permanecido inalterables desde los tiempos de Turing y Von Neumann. Este roadmap está diseñado para que desarrolles una mentalidad crítica, una lógica matemática pura y una capacidad de resolución de problemas que te permitirá aprender cualquier lenguaje, motor de juego, arquitectura de seguridad o modelo de IA en cuestión de semanas, no años. Ser polímata no significa "saber un poco de todo"; significa tener una estructura mental tan sólida que la complejidad técnica ya no te intimida, sino que te desafía. Prepárate para el trabajo más duro y gratificante de tu carrera.
+Bienvenido a la senda del ingeniero polímata. Lo que tienes ante ti no es una simple lista de temas a aprender; es un mapa para reprogramar tu cerebro y construir una base técnica inquebrantable. En un mundo donde la tecnología evoluciona a un ritmo frenético, la mayoría de los programadores se pierden tratando de memorizar sintaxis o frameworks que caducarán en dos años. Tú no harás eso. Tú aprenderás los cimientos de la computación, aquellos que han permanecido inalterables desde los tiempos de Turing y Von Neumann. Este roadmap está diseñado para que desarrolles una mentalidad crítica, una lógica matemática pura y una capacidad de resolución de problemas que te permitirá aprender cualquier lenguaje, motor de juego, arquitectura de seguridad o modelo de IA en cuestión de semanas, no años. Ser polímata no significa "saber un poco de todo"; significa tener una estructura mental tan sólida que la complejidad técnica ya no te intimida, sino que te desafía. Prepárate para el trabajo más duro y gratificante de tu carrera.
 
 ---
 
@@ -34,6 +34,8 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 4. **Comunicación y Economía Básica**
    - Economía: Oferta/Demanda, valor del tiempo, interés compuesto, inflación, costo de oportunidad.
    - Comunicación: El arte de la explicación, estructura de una argumentación técnica.
+   - Documentación: Escribir documentación técnica, realizar presentaciones efectivas.
+   - Pensamiento crítico: Evaluación de fuentes, validación de información técnica.
 
 ### Fase B: El Core Técnico (Lenguajes y herramientas)
 1. **Python: Lenguaje Base**
@@ -73,26 +75,35 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
    - Tablas Hash: Funcionamiento, carga, colisiones.
    - Ordenamiento: Bubble, Selection, Insertion, Merge, Quick, Heap sort.
    - Búsqueda: Lineal, Binaria.
+   - DSA Avanzado: Skip Lists, B-Trees, Segment Trees, Fenwick Trees, Disjoint Set Union (DSU), Trie, Suffix Trees.
 2. **Redes: Puente entre sistemas**
    - Modelo OSI: Las 7 capas.
    - Protocolos: IP (v4/v6), TCP, UDP, ICMP, DHCP, DNS, HTTP/HTTPS, FTP, SSH.
    - Herramientas: ip, netstat, ping, traceroute, nmap, wireshark, netcat.
+   - Networking Avanzado: Subnetting, VLANs, OSPF, BGP, protocolos de enrutamiento, IPv6 avanzado.
 3. **SQL y Bases de Datos**
    - Diseño relacional, normalización (1NF, 2NF, 3NF), JOINs, PostgreSQL, transacciones ACID.
+   - Indexación, transacciones (ACID), replicación, particionamiento.
 4. **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript.
 5. **Backend:** FastAPI, Flask, Django.
+6. **Arquitectura de Software:** Monolitos vs Microservicios, Event-driven, Serverless.
+7. **Testing:** Unit testing, TDD, integración, E2E, QA.
+8. **Calidad de Software:** Patrones de diseño, SOLID, Clean Code, Refactorización.
+9. **Protocolos de comunicación:** MQTT, AMQP, gRPC, REST, GraphQL, WebSockets.
 
 ---
 
 ## 🟠 NIVEL 3: ESPECIALIZACIÓN POLÍMATA (Rotación Paralela)
-
 ### Pilar 1: Inteligencia Artificial (IA)
 - Álgebra Lineal: Matrices, Vectores (Khan Academy, MIT).
 - Cálculo: Derivadas, Gradientes (3Blue1Brown).
 - Estadística: Media, Varianza, Distribuciones.
 - Librerías: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch/TensorFlow.
 - Modelos: Regresión, Clasificación, Clustering, CNNs, RNNs.
-- Recursos: Coursera (Audit), fast.ai (gratis).
+- Redes Neuronales: Función de pérdida, optimizadores (SGD, Adam, RMSProp), regularización (Dropout, L1/L2), BatchNorm, Xavier/He initialization.
+- NLP: Bag of Words, TF-IDF, Word2Vec, GloVe, LSTM, GRU, Bahdanau Attention, Transformers (Self-Attention).
+- IA Generativa: LLMs, Prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
+- IA aplicada: Despliegue de modelos en dispositivos edge, optimización de modelos, inferencia eficiente.
 
 ### Pilar 2: Ciberseguridad
 - Redes Avanzadas: ARP Spoofing, MITM.
@@ -100,6 +111,8 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 - Web Security: OWASP Top 10, SQLi, XSS, CSRF (WebGoat - gratis).
 - Pentesting: TryHackMe (niveles gratuitos), HackTheBox (niveles gratuitos).
 - Reverse Engineering: Debuggers (GDB), Desensambladores (Ghidra - open source).
+- Exploits: Buffer Overflow, ROP chains, Format String, Heap Spraying, Integer Overflow.
+- Herramientas: Metasploit (Framework open source), Burp Suite (Community), John the Ripper, Hydra.
 
 ### Pilar 3: Videojuegos (Godot)
 - Matemática: Vectores 2D/3D, Producto punto (ángulos), Producto cruz (normales).
@@ -108,6 +121,7 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 - Física: Colisiones (KinematicBody2D vs StaticBody2D), Gravedad.
 - UI/UX: Control nodes, Themes.
 - Shaders: Lenguaje de shaders (GLSL), fragment/vertex shaders.
+- Gráficos avanzados: Raytracing, PBR (Physically Based Rendering), iluminación global.
 
 ### Pilar 4: Sistemas Embebidos y Hardware
 - Arduino, C/C++, Rust.
@@ -115,6 +129,10 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 - Sensores, Actuadores (PWM, ADC, DAC).
 - Protocolos (I2C, SPI, UART).
 - Sistemas Operativos (RTOS), Drivers, PCB (KiCad - open source).
+- Arquitectura: Registros, Stack vs Heap, Endianness, Pipelining, Cache hierarchy, Branch prediction, SIMD.
+- Compiladores: Parsing (Lex/Yacc), AST, optimización de código, LLVM.
+- Sistemas de archivos: ext4, Btrfs, ZFS, FAT32, NTFS, inodos.
+- OS Internals: Scheduling, memoria virtual, syscalls, sistemas de archivos.
 
 ---
 
@@ -129,7 +147,7 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 
 ---
 
-## 🛠️ HABILIDADES TRANSVERSALES (El "todo lo demás")
+## 🛠️ HABILIDADES TRANSVERSALES Y AVANZADAS
 - **Hablar a la IA:** Prompt Engineering profesional (iteración, contexto, delimitación).
 - **Ética y Software Libre:** Licencias (MIT, GPL, Apache), cómo contribuir a OSS, código limpio (Clean Code).
 - **Productividad:** Vim/Neovim, Automatización total (Makefiles, Bash), gestión de entornos.
@@ -139,19 +157,6 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 - **Pensamiento sistémico:** Ver cómo software, hardware, red y seguridad interactúan en una infraestructura compleja.
 - **Documentación:** Escritura técnica profesional, Markdown, docstrings, generación de READMEs.
 - **Economía aplicada:** Análisis costo-beneficio de tecnologías.
-- **Comunicación técnica:** Escribir documentación técnica, realizar presentaciones efectivas.
-- **Pensamiento crítico:** Evaluación de fuentes, validación de información técnica.
-- **Gestión del tiempo:** Pomodoro, time-blocking, metodologías ágiles adaptadas a individuo.
-- **Ética profesional:** Responsabilidad, privacidad, ciberhigiene.
-- **Contribución OSS:** Cómo abrir PRs, gestión de repositorios, documentación comunitaria.
-- **Seguridad personal:** Cifrado de datos personales, gestión de contraseñas (KeePassXC).
-- **Hardware avanzado:** Diseño de PCBs, FPGA (Verilog/VHDL), sistemas críticos.
-- **Compiladores:** Parsing (Lex/Yacc), AST, optimización de código, LLVM.
-- **OS Internals:** Scheduling, memoria virtual, syscalls, sistemas de archivos.
-- **Gráficos avanzados:** Raytracing, PBR (Physically Based Rendering), iluminación global.
-- **Networking avanzado:** Seguridad perimetral, VPNs, protocolos de enrutamiento (BGP/OSPF), SDN.
-- **IA aplicada:** Despliegue de modelos en dispositivos edge, optimización de modelos, inferencia eficiente.
-- **Economía digital:** Conceptos de Blockchain, criptoeconomía, modelos de negocio SaaS.
 - **Comunicación interpersonal:** Escucha activa, negociación, trabajo en equipo (soft skills).
 - **Pensamiento de diseño:** UX/UI, diseño centrado en el usuario, prototipado rápido.
 - **Pensamiento creativo:** Resolución de problemas mediante técnicas de ideación (brainstorming, SCAMPER).
@@ -166,25 +171,10 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 - **Maestría técnica:** Cómo leer código fuente de librerías famosas, ingeniería inversa de software.
 - **Sistemas distribuidos:** Consenso, escalabilidad, alta disponibilidad, CAP theorem.
 - **Cloud Computing:** AWS/GCP/Azure (conceptos), Serverless, infraestructura como código (Terraform).
-- **DevOps:** CI/CD, Docker, Kubernetes, monitorización.
-- **Testing:** Unit testing, TDD, integración, E2E, QA.
-- **Calidad de Software:** Patrones de diseño, SOLID, Clean Code, Refactorización.
-- **Sistemas de archivos:** ext4, Btrfs, ZFS, FAT32, NTFS, inodos.
-- **Protocolos de comunicación:** MQTT, AMQP, gRPC, REST, GraphQL, WebSockets.
-- **Lenguajes adicionales:** LUA (para juegos), C# (Godot/Unity), C++ (Sistemas), Rust (Sistemas), Go, Java.
-- **Procesamiento de señales:** FFT, filtros (baja/alta frecuencia), DSP.
-- **Visión artificial:** OpenCV, transformaciones geométricas, detección de bordes, OCR.
-- **Seguridad física:** Candados físicos, autenticación multifactor (MFA), seguridad perimetral.
-- **Ética hacker:** White hat, responsabilidad, leyes informáticas.
-- **Derecho informático:** Propiedad intelectual, licencias, privacidad de datos (GDPR).
-- **Gestión de servidores:** Nginx, Apache, SSH, Firewall (iptables/nftables).
-- **Monitorización:** Prometheus, Grafana, ELK stack.
-- **Bases de datos avanzado:** Indexación, transacciones (ACID), replicación, particionamiento.
-- **Arquitectura de Software:** Monolitos vs Microservicios, Event-driven, Serverless.
+- **DevOps:** CI/CD, Docker, Kubernetes, monitorización (Prometheus, Grafana).
 - **Web 3.0:** Conceptos de descentralización, smart contracts.
 - **Desarrollo de CLI:** Creación de herramientas de línea de comandos, parseo de argumentos.
 - **Virtualización:** Docker, KVM, VirtualBox, QEMU.
-- **IA Generativa:** LLMs, Prompts, fine-tuning, RAG (Retrieval-Augmented Generation).
 - **Ética del Polímata:** Equilibrio entre especialización y amplitud, el rol del ingeniero en la sociedad.
 - **Visión a largo plazo:** El futuro de la tecnología (Computación cuántica, Biotecnología).
 - **Maestría final:** Enseñar lo aprendido a otros, mentoría.
@@ -192,6 +182,4 @@ Tú aprenderás **los cimientos de la computación**, aquellos que han permaneci
 ---
 
 ## 🏁 CONCLUSIÓN: EL VIAJE NUNCA TERMINA
-Este documento no es un destino, es una brújula. La ingeniería no es una carrera de 100 metros, es un maratón de toda una vida. Habrá días en los que te sientas frustrado, días donde sientas que no avanzas, y días donde todo hará clic. Eso es parte del proceso de convertirse en un ingeniero. La tecnología que hoy es tendencia, mañana será obsoleta; lo que hoy parece complejo, mañana será tu herramienta de trabajo cotidiana.
-
-Tu mayor activo no es el conocimiento que logres acumular, sino **tu capacidad de aprender de manera autodidacta y constante**. Mantén la curiosidad, cuestiona siempre el "cómo" y el "porqué" de cada cosa, aplica la ética en cada línea de código que escribas, y recuerda que la verdadera maestría reside en la simplicidad: ser capaz de explicar lo complejo de manera sencilla. Ahora que tienes el mapa, la responsabilidad es tuya. Empieza hoy, mantén la consistencia y nunca, bajo ninguna circunstancia, dejes de construir. ¡El mundo te necesita creando!
+Este documento no es un destino, es una brújula. La ingeniería no es una carrera de 100 metros, es un maratón de toda una vida. Habrá días en los que te sientas frustrado, días donde sientas que no avanzas, y días donde todo hará clic. Eso es parte del proceso de convertirse en un ingeniero. La tecnología que hoy es tendencia, mañana será obsoleta; lo que hoy parece complejo, mañana será tu herramienta de trabajo cotidiana. Tu mayor activo no es el conocimiento que logres acumular, sino **tu capacidad de aprender de manera autodidacta y constante**. Mantén la curiosidad, cuestiona siempre el "cómo" y el "porqué" de cada cosa, aplica la ética en cada línea de código que escribas, y recuerda que la verdadera maestría reside en la simplicidad: ser capaz de explicar lo complejo de manera sencilla. Ahora que tienes el mapa, la responsabilidad es tuya. Empieza hoy, mantén la consistencia y nunca, bajo ninguna circunstancia, dejes de construir. ¡El mundo te necesita creando!

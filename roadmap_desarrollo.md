@@ -1,4 +1,4 @@
-# Roadmap Maestro: El Camino del Ingeniero Polímata 
+# Roadmap Maestro: El Camino del Ingeniero Polímata (Lógica, Matemáticas, Inglés, Python, Linux, Git, DSA, Redes, SQL, Web, IA, Seguridad, Videojuegos y Hardware)
 
 Este documento es el mapa definitivo para alcanzar la maestría técnica y humana en la ingeniería. Sigue este orden de complejidad ascendente. No es superficial; es una ruta de aprendizaje granular.
 

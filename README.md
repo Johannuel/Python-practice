@@ -1,4 +1,4 @@
-# Funciones de Cada Archivo.Py
+# Funciones de Cada Archivo.Py + MD
 
  1.El cajero.py es un programa que simula un cajero automático.
 
@@ -11,6 +11,8 @@
  5. Rank.py es un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc.
 
  6. El Depurar.py es un codigo que busque con errores para arreglarlos.
+
+ 7. El roadmp_desarrollo.md contiene una ruta estructurada para aprender desde las cosas mas esenciales de la Programacion hasta las areas tecnicas mas avanzadas ,comienza por las matematicas continua con la logica (Aprender a pensar), sigue con mas cosas como pseudocodigo, Ingles tecnico,etc y todo eso son los cimientos de la programacion. Y no solo eso, tambien te puede ayudar en cualquier otra area. Hoy en dia esos cimientos son esenciales y muy valorados en cualquier lugar 
 
 
 Nota: 

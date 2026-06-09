@@ -45,13 +45,13 @@ personajes = {
     "Captain America": {
         "poder": 80,
         "destreza": 95,
-        "velocidad": 80,
+        "velocidad": 65,
         "inteligencia": 75,
     },  # Máximo potencial humano y experto en combate.
     "Thor": {
         "poder": 98,
         "destreza": 85,
-        "velocidad": 80,
+        "velocidad": 85,
         "inteligencia": 70,
     },  # Poder divino y gran resistencia.
     # --- Personajes de The Boys ---
@@ -71,19 +71,19 @@ personajes = {
     "Walter White": {
         "poder": 30,
         "destreza": 40,
-        "velocidad": 30,
+        "velocidad": 10,
         "inteligencia": 100,
     },  # Intelecto nivel genio, baja capacidad física.
     "Jesse Pinkman": {
         "poder": 20,
         "destreza": 60,
-        "velocidad": 60,
+        "velocidad": 20,
         "inteligencia": 50,
     },  # Astucia callejera, sin gran poder físico.
     "Gus Fring": {
         "poder": 40,
         "destreza": 70,
-        "velocidad": 70,
+        "velocidad": 5,
         "inteligencia": 95,
     },  # Mente maestra criminal y extremadamente metódico.
 }

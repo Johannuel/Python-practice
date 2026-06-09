@@ -1,5 +1,6 @@
+# Is a variable
 Saldo = 1000
-
+# Is a Bucle whith options and conditions , start whith a menu, end whith a option to exit
 while True:
     print("\n Menu cajero: ")
     print("\n 1. Ver saldo")

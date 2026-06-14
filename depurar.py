@@ -1,4 +1,4 @@
-# Este programa intenta sumar una lista de números pero tenia errores
+# This program tries to sum a list of numbers but had errors.
 def sumar_lista(numeros):
     total = 0
     for n in numeros:
@@ -6,8 +6,8 @@ def sumar_lista(numeros):
     return total
 
 
-mi_lista = [10, 20, 30, 40]  # Error aquí: habia un string
+mi_lista = [10, 20, 30, 40]  # Error here: there was a string
 resultado = sumar_lista(mi_lista)
 print(
     "El total es: " + str(resultado)
-)  # Error aquí: no puedes sumar texto con número, por lo que se convierte a string
+)  # Error here: you cannot add text with a number, so it is converted to a string

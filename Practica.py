@@ -9,7 +9,7 @@ def main():
         edad = 0
 
     if edad >= 18:
-        print(f"Hola {nombre}, ya eres mayor de edad.")
+        print(f"Hola {nombre}, ya eres mayor de edad...")
     else:
         print(f"Hola {nombre}, aún eres menor de edad.")
 

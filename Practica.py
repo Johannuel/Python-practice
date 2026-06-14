@@ -14,7 +14,7 @@ def main():
         print(f"Hola {nombre}, aún eres menor de edad.")
 
     frutas = ["Manzana", "Banana", "Cereza", "Fresa"]
-    print("\nLista de frutas disponibles:")
+    print("\nLista de frutas disponibles..:")
     for fruta in frutas:
         print(f" • {fruta}")
 

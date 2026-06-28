@@ -6,7 +6,7 @@ def sumar_lista(numeros):
     return total
 
 
-mi_lista = [10, 20, 30, 40]  # Error here: there was a string
+mi_lista = [100, 20, 100, 40]  # Error here: there was a string
 resultado = sumar_lista(mi_lista)
 print(
     "El total es: " + str(resultado)

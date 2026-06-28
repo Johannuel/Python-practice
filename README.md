@@ -1,20 +1,103 @@
-# Funciones de Cada Archivo.Py + MD
+<div align="center">
+  <img src="./profile-banner.svg" alt="Johannuel profile banner" width="100%" />
+</div>
 
- 1.El cajero.py es un programa que simula un cajero automático.
+<br />
 
- 2. El Main.py es un programa de mediciones de temperatura
+<div align="center">
 
- 3. El Practica.py es un programa de entrada/salida 
+# Johannuel
 
- 4. El Problema.py es un bucle que repite una acción indefinidamente hasta que se detiene con la clave correcta.
+**Python. Linux. Output.**
 
- 5. Rank.py es un programa que rankea por escala de: Fuerza, Velocidad, Inteligencia, Destreza, Resistencia, etc.
+Construyo con disciplina, ejecuto con enfoque y convierto ideas simples en software util.
 
- 6. El Depurar.py es un codigo que busque con errores para arreglarlos.
+</div>
 
- 7. El roadmp_desarrollo.md contiene una ruta estructurada para aprender desde las cosas mas esenciales de la Programacion hasta las areas tecnicas mas avanzadas ,comienza por las matematicas continua con la logica (Aprender a pensar), sigue con mas cosas como pseudocodigo, Ingles tecnico,etc y todo eso son los cimientos de la programacion. Y no solo eso, tambien te puede ayudar en cualquier otra area. Hoy en dia esos cimientos son esenciales y muy valorados en cualquier lugar 
+<br />
 
+## Snapshot
 
-Nota: 
+<table>
+  <tr>
+    <td>
+      <strong>Focus</strong><br />
+      Python, consola, automatizacion, sistemas
+    </td>
+    <td>
+      <strong>Mode</strong><br />
+      Aprender haciendo, depurar, repetir
+    </td>
+    <td>
+      <strong>Direction</strong><br />
+      Backend, datos, redes, seguridad
+    </td>
+  </tr>
+</table>
 
-Mas adelante hare mas Programas, como por ejemplo Un analista de redes , entrenare a una IA para que aprenda y resuelva problemas complejos.
+## Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Console tools</strong><br />
+      Calculadoras, cajeros y utilidades para entrenar logica.
+    </td>
+    <td width="50%">
+      <strong>Learning scripts</strong><br />
+      Codigo para depurar, probar ideas y reforzar fundamentos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Systems practice</strong><br />
+      Linux, Git, archivos, automatizacion y mentalidad de sistema.
+    </td>
+    <td width="50%">
+      <strong>Future builds</strong><br />
+      Backend, datos, redes y seguridad cuando la base este lista.
+    </td>
+  </tr>
+</table>
+
+## About
+
+- Base tecnica solida antes que frameworks.
+- Python y terminal como herramientas de trabajo.
+- Entender Linux, Git y sistemas por dentro.
+- Codigo claro, util y mantenible.
+
+## Skills
+
+<table>
+  <tr>
+    <td><strong>Languages</strong><br />Python</td>
+    <td><strong>System</strong><br />Linux</td>
+    <td><strong>Version control</strong><br />Git / GitHub</td>
+  </tr>
+  <tr>
+    <td><strong>Style</strong><br />Console-first, minimal, direct</td>
+    <td><strong>Strengths</strong><br />Logic, debugging, structure</td>
+    <td><strong>Interests</strong><br />Backend, data, systems</td>
+  </tr>
+</table>
+
+## What I am building now
+
+- Stronger Python habits.
+- Better code organization.
+- Faster terminal workflow.
+- Sharper systems understanding.
+
+## Principles
+
+- Primero los fundamentos.
+- Menos ruido. Mas precision.
+- Probar, corregir, repetir.
+- Documentar tambien construye.
+
+## Contact
+
+- GitHub: `@Johannuel`
+- If you found something useful here, you can follow the progress on this profile.
+
